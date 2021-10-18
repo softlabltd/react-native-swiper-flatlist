@@ -1,0 +1,12 @@
+.github/
+.vscode/
+example/
+.editorconfig
+.eslintrc.js
+.gitattributes
+.prettierrc
+CHANGELOG
+babel.config.js
+bitrise.yml
+demo.gif
+expo-example/
